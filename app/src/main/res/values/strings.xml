@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickNews</string>
+    <string name="quick_news">Quick news</string>
+    <string name="new_heading">New Heading</string>
+</resources>
